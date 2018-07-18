@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.bimage{
+	background-image: url('myimage.jpg');
+	background-size: 100% 110%;
+	background-repeat: repeat-y;
+	width: 100%;
+	height: 150vh;
+}
+h1 {
+	text-align: center;
+	color: #2a3adf;
+	padding-top: 15px;
+	font-weight: bold;
+	font-family: courier;
+	text-shadow: 1px 2px red;
+	font-size: 50px;
+}
+img{
+	margin: 1px auto;
+	display: block;
+	width: 240px;
+	height: 240px;
+	padding-top: 10px;
+}
+h3 {
+	font-weight: bold;
+	font-size: 30px;
+	padding-left: 20px;
+	font-family: verdana;
+	text-shadow: 1px 2px #3a2daf;
+}
+p {
+	color: #2af3aa;
+	font-size: 20px;
+	padding-left: 50px;
+}
